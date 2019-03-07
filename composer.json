@@ -2,6 +2,7 @@
     "name": "maxsky/lumen-app-key-generator",
     "description": "Set the application key in Lumen Framework.",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Max Sky",
